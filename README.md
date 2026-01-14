@@ -1,1 +1,1 @@
-# Hireliy---AI-Powered-Smart-Resume-Ranker
+# Hirely---AI-Powered-Smart-Resume-Ranker
